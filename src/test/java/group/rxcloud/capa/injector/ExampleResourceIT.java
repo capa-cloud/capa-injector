@@ -1,4 +1,4 @@
-package group.rxcloud;
+package group.rxcloud.capa.injector;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

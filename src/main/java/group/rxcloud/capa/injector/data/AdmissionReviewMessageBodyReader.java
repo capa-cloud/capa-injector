@@ -1,4 +1,4 @@
-package group.rxcloud.data;
+package group.rxcloud.capa.injector.data;
 
 import io.fabric8.kubernetes.api.model.admission.v1.AdmissionReview;
 import io.fabric8.kubernetes.client.utils.Serialization;
